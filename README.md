@@ -21,8 +21,8 @@ Re-Rail is a cutting-edge predictive maintenance system designed to ensure the s
   ![image](https://github.com/user-attachments/assets/e3693c2e-914b-4dbb-9e21-6bb160810c29)
 
  ## 3. Real-Time Insights:
--Maintenance teams can view the detected issues on an interactive map-based UI.
--This allows them to easily locate problem areas and plan repairs efficiently.
+- Maintenance teams can view the detected issues on an interactive map-based UI.
+- This allows them to easily locate problem areas and plan repairs efficiently.
 ![462577990_8678488088912100_2452771428797486916_n](https://github.com/user-attachments/assets/7a185371-212a-47d2-bfd6-babd01508d96)
 
  
