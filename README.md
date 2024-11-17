@@ -7,8 +7,8 @@ Re-Rail is a cutting-edge predictive maintenance system designed to ensure the s
 - Supports sustainable development goals by improving public transport reliability and safety
 
 # How It Works 
-## 1. Smart Device on Trains:**
-     A compact device is mounted on trains. This device includes:
+## 1. Smart Device on Trains:
+  A compact device is mounted on trains. This device includes:
 - A camera that captures images of the tracks at regular intervals
 - A GPS module that records the exact location of each image
      
