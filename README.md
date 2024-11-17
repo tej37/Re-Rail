@@ -27,6 +27,8 @@ Re-Rail is a cutting-edge predictive maintenance system designed to ensure the s
   
 ![462577990_8678488088912100_2452771428797486916_n](https://github.com/user-attachments/assets/7a185371-212a-47d2-bfd6-babd01508d96)
 
+## demo video
+
  
 
  
