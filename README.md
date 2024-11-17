@@ -9,8 +9,8 @@ Re-Rail is a cutting-edge predictive maintenance system designed to ensure the s
 # How It Works 
 **1. Smart Device on Trains:**
      A compact device is mounted on trains. This device includes:
-     - A camera that captures images of the tracks at regular intervals
-     - A GPS module that records the exact location of each image
+- A camera that captures images of the tracks at regular intervals
+- A GPS module that records the exact location of each image
      
 ![image](https://github.com/user-attachments/assets/ce60596b-b552-4621-bb61-d87c2f8a588d)
  
