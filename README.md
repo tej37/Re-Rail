@@ -12,7 +12,8 @@ Re-Rail is a cutting-edge predictive maintenance system designed to ensure the s
 - A camera that captures images of the tracks at regular intervals
 - A GPS module that records the exact location of each image
      
-![image](https://github.com/user-attachments/assets/ce60596b-b552-4621-bb61-d87c2f8a588d)
+![image](https://github.com/user-attachments/assets/136ff960-8b59-4b55-b41c-4b206cd2d48f)
+
 
 ## 2. Centralized Processing:
 - The images and location data are sent to a central server.
